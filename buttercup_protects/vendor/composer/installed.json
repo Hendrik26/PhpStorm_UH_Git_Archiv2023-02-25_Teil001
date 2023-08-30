@@ -1,0 +1,55 @@
+[
+    {
+        "name": "mathiasverraes/classfunctions",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/mathiasverraes/classfunctions.git",
+            "reference": "5fd083b56b1336d10e39b841d6e6acc365337b92"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/mathiasverraes/classfunctions/zipball/5fd083b56b1336d10e39b841d6e6acc365337b92",
+            "reference": "5fd083b56b1336d10e39b841d6e6acc365337b92",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.4"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "*"
+        },
+        "time": "2014-02-15T14:52:59+00:00",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "1.0-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "Verraes": "src"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Mathias Verraes",
+                "email": "mathias@verraes.net",
+                "homepage": "http://verraes.net",
+                "role": "Developer"
+            }
+        ],
+        "description": "Functions to manipulate class names",
+        "homepage": "http://verraes.net",
+        "keywords": [
+            "classes",
+            "utilities"
+        ]
+    }
+]
